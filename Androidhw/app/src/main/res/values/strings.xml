@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Androidhw</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="Yemek">Menu</string>
+    <string name="Duyuru">Announcement</string>
+    <string name="Haberler">News</string>
+
+    <string name="MenuURL">http://ybu.edu.tr/sks/</string>
+    <string name="DuyuruURL">http://www.ybu.edu.tr/muhendislik/bilgisayar/</string>
+    <string name="HaberURL">http://www.ybu.edu.tr/muhendislik/bilgisayar/</string>
+</resources>
